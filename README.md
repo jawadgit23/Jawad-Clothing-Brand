@@ -33,7 +33,7 @@ Fast performance (no frameworks)
 ### 📸 Screenshots
 
 ![Products](Products.jpg)
-![Products](Products2.jpg)
-![Products](Products3.jpg)
+![Products1](Products2.jpg)
+![Products2](Products3.jpg)
 
 
