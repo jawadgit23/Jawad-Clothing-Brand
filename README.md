@@ -32,6 +32,6 @@ Fast performance (no frameworks)
 
 ## 📸 Screenshots
 
-<img width="1135" height="733" alt="image" src="https://github.com/user-attachments/assets/screenshots/Products" />
+<img width="1135" height="733" alt="image" src="https://github.com/user-attachments/assets/screenshots/Products.jpg" />
 <img width="1135" height="733" alt="image" src="https://github.com/user-attachments/assets/5ad4f5f2-eb0f-44ef-a746-534d4f1886ec" />
 
