@@ -19,14 +19,17 @@ Visual hierarchy
 Branding design
 Responsive UI development
 
-🧰 Tech Stack
+Tech Stack
 HTML5 — semantic structure
 CSS3 — styling, layout, responsiveness
 (Optional: JavaScript if used — add later if applicable)
-🎯 Key Features
-🧥 Modern clothing brand landing page
-🎨 Clean and minimal UI design
-📱 Responsive layout (mobile-friendly)
-🧭 Smooth navigation between sections
-🖼️ Product showcase section
-⚡ Fast performance (no frameworks)
+Key Features
+Modern clothing brand landing page
+Clean and minimal UI design
+Smooth navigation between sections
+Product showcase section
+Fast performance (no frameworks)
+
+
+<img width="1135" height="733" alt="image" src="https://github.com/user-attachments/assets/5ad4f5f2-eb0f-44ef-a746-534d4f1886ec" />
+
