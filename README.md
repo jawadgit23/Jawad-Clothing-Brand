@@ -33,5 +33,5 @@ Fast performance (no frameworks)
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/Products.jpg" width="800"/>
+  <img src="assets/screenshots/Products" width="800"/>
 </p>
