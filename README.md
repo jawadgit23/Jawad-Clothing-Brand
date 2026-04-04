@@ -4,7 +4,7 @@ A stylish and responsive clothing brand website built using HTML and CSS, design
 
  Live Demo
 
-👉 https://jawad-clothing-brand-009dda.netlify.app/
+👉 https://jawad-clothings-collection-291fc7.netlify.app/
 
  Project Overview
 
